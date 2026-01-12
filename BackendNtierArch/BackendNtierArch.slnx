@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Business/Business.csproj" />
+  <Project Path="Core/Core.csproj" />
+  <Project Path="DataAccess/DataAccess.csproj" Id="1b74f44b-0e07-41cc-963d-3532e4c15e4b" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="WebApi/WebApi.csproj" />
+</Solution>
