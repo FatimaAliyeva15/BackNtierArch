@@ -58,6 +58,10 @@ namespace Core.DataAccess.Repositories.Concrete.EFCore
 
         }
 
+        public async Task SaveAsync()
+        {
+            await _context.SaveChangesAsync();
+        }
 
         public void Update(TEntity entity)
         {
