@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Business\\Business.csproj": {
+    "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Entities\\Entities.csproj"
+              "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\Entities.csproj"
               }
             }
           }
@@ -80,6 +80,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
             }
           },
           "imports": [
@@ -376,14 +380,14 @@
         }
       }
     },
-    "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Core\\Core.csproj": {
+    "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -445,6 +449,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
             }
           },
           "imports": [
@@ -741,14 +749,14 @@
         }
       }
     },
-    "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -769,11 +777,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Core\\Core.csproj"
+              "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Core\\Core.csproj"
               },
-              "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Entities\\Entities.csproj"
+              "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\Entities.csproj"
               }
             }
           }
@@ -817,6 +825,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
             }
           },
           "imports": [
@@ -1113,14 +1125,14 @@
         }
       }
     },
-    "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Entities\\Entities.csproj": {
+    "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1141,8 +1153,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Core\\Core.csproj"
+              "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Core\\Core.csproj"
               }
             }
           }
@@ -1182,6 +1194,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
             }
           },
           "imports": [
@@ -1478,14 +1494,14 @@
         }
       }
     },
-    "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1506,8 +1522,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\BackendNtierArch\\Business\\Business.csproj"
+              "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Business.csproj"
               }
             }
           }
@@ -1554,7 +1570,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[10.1.0, )"
             }
           },
           "imports": [
