@@ -455,3 +455,6 @@ C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\o
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\obj\Debug\net10.0\ref\WebApi.dll
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\FluentValidation.dll
+C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\FluentValidation.AspNetCore.dll
+C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll

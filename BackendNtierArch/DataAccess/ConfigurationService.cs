@@ -1,6 +1,7 @@
 ﻿using DataAccess.EfCore;
 using DataAccess.Repositories.Abstracts;
 using DataAccess.Repositories.Concretes.EFCore;
+using DataAccess.UnitOfWork.Abstract;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,7 +19,7 @@ namespace DataAccess
             {
                 opt.UseSqlServer(configuration.GetConnectionString("Default"));
             });
-            services.AddScoped<IProductRepository, EFProductRepository>();
+            services.AddScoped<IUnitOfWork, DataAccess.UnitOfWork.Concrete.UnitOfWork>();
             return services;
         }
     }
