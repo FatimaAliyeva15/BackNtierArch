@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfigurationService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\ConfigurationService.cs",
-              "RelativeDocumentMoniker": "Business\\ConfigurationService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\ConfigurationService.cs",
-              "RelativeToolTip": "Business\\ConfigurationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:54:46.767Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
@@ -49,9 +36,9 @@
               "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IProductService.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Abstracts\\IProductService.cs",
               "RelativeToolTip": "Business\\Services\\Abstracts\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T15:52:48.598Z",
+              "WhenOpened": "2026-01-16T12:28:20.969Z",
               "EditorCaption": ""
             },
             {
@@ -62,23 +49,33 @@
               "RelativeDocumentMoniker": "Business\\Services\\Concretes\\ProductService.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Concretes\\ProductService.cs",
               "RelativeToolTip": "Business\\Services\\Concretes\\ProductService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswC8AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwCEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T12:19:59.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswBgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T12:21:07.922Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 955,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

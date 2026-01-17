@@ -1,4 +1,5 @@
 ﻿using Business.Services.Abstracts;
+using Core.Business.Utilities.Results.Concretes;
 using Entities.DTOs.ProductDTOs;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -19,26 +20,40 @@ namespace WebApi.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllProducts()
         {
-            return Ok(await _service.GetAllProducts());
+            var result = await _service.GetAllProducts();
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest();
         }
 
         [HttpGet]
         public async Task<IActionResult> GetProductById(Guid id)
         {
-            return Ok(await _service.GetProductById(id));
+            var result = await _service.GetProductById(id);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest();
         }
 
         [HttpPost]
         public async Task<IActionResult> AddProduct(CreateProductDTO createProductDTO)
         {
-            await _service.AddProduct(createProductDTO);
-            return Ok();
+            var result = await _service.AddProduct(createProductDTO);
+            if(result.Success)
+                return Ok(result);
+            return BadRequest(new ErrorResult("Mehsul elave edilmedi"));
         }
 
         [HttpDelete]
         public async Task<IActionResult> DeleteProduct(Guid id)
         {
-            await _service.DeleteProduct(id);
+            var result = await _service.DeleteProduct(id);
+            if (result.Success)
+                return Ok(result);
             return NoContent();
         }
     }

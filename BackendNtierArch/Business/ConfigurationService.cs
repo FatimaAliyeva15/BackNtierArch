@@ -16,6 +16,7 @@ namespace Business
         public static IServiceCollection AddBusinessConfiguration(this IServiceCollection services)
         {
             services.AddAutoMapper(typeof(ProductProfile));
+
             services.AddFluentValidationAutoValidation()
                     .AddFluentValidationClientsideAdapters();
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
