@@ -1,5 +1,53 @@
 [
   {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "AddAdmin",
+    "RelativePath": "api/Auth/AddAdmin/add-admin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "Entities.DTOs.AuthDTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Entities.DTOs.AuthDTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "Regiter",
+    "RelativePath": "api/Auth/Regiter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "Entities.DTOs.AuthDTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi.Controllers.ProductsController",
     "Method": "AddProduct",
     "RelativePath": "api/Products/AddProduct",
@@ -8,9 +56,24 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "createProductDTO",
-        "Type": "Entities.DTOs.ProductDTOs.CreateProductDTO",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUrl",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

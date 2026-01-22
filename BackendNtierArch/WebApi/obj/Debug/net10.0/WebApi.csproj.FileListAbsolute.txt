@@ -286,7 +286,6 @@ C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\b
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\Azure.Identity.dll
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\Humanizer.dll
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\Microsoft.Build.dll
@@ -454,7 +453,9 @@ C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\o
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\obj\Debug\net10.0\WebApi.pdb
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\obj\Debug\net10.0\ref\WebApi.dll
-C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\FluentValidation.dll
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\FluentValidation.AspNetCore.dll
 C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\VisionTasks\BackendNtierArchTask\BackendNtierArch\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

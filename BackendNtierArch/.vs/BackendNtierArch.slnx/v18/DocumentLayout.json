@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\entities\\dtos\\productdtos\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productdtos\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\business\\services\\concretes\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\entities\\dtos\\productdtos\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productdtos\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\entities\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\asus\\desktop\\visiontasks\\backendntierarchtask\\backendntierarch\\business\\services\\abstracts\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,57 +49,121 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Abstracts\\IProductService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Abstracts\\IProductService.cs",
-              "RelativeToolTip": "Business\\Services\\Abstracts\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "GetProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\DTOs\\ProductDTOs\\GetProductDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductDTOs\\GetProductDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\DTOs\\ProductDTOs\\GetProductDTO.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductDTOs\\GetProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:28:20.969Z",
+              "WhenOpened": "2026-01-22T09:48:44.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Concretes\\ProductService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Concretes\\ProductService.cs",
-              "RelativeToolTip": "Business\\Services\\Concretes\\ProductService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAApwCEAAAA+AAAAAAAAAA==",
+              "Title": "GetAllProductsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\DTOs\\ProductDTOs\\GetAllProductsDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductDTOs\\GetAllProductsDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\DTOs\\ProductDTOs\\GetAllProductsDTO.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductDTOs\\GetAllProductsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T12:19:59.444Z",
+              "WhenOpened": "2026-01-22T09:48:37.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\DTOs\\ProductDTOs\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductDTOs\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Entities\\DTOs\\ProductDTOs\\CreateProductDTO.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductDTOs\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:48:35.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowDwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:44:26.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "Business\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\ConfigurationService.cs",
+              "RelativeToolTip": "Business\\ConfigurationService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:44:10.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Concretes\\FileService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\FileService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Concretes\\FileService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\FileService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:28:44.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Abstracts\\IFileService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\Business\\Services\\Abstracts\\IFileService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:26:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowBsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T12:21:07.922Z",
+              "WhenOpened": "2026-01-21T09:32:42.846Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 955,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisionTasks\\BackendNtierArchTask\\BackendNtierArch\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:31:07.255Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -13,7 +13,7 @@ namespace Business.Utilities.Profilies
         {
             CreateMap<GetAllProductsDTO, Product>().ReverseMap();
             CreateMap<GetProductDTO, Product>().ReverseMap();
-            CreateMap<CreateProductDTO, Product>();
+            CreateMap<CreateProductDTO, Product>().ForMember(dest => dest.ImageUrl, opt => opt.Ignore());
         }
     }
 }

@@ -4,6 +4,7 @@ using Business.Utilities.Concretes;
 using Core.Business.Utilities.Exceptions;
 using Core.Business.Utilities.Results.Abstracts;
 using Core.Business.Utilities.Results.Concretes;
+using Core.Entities.Abstract;
 using DataAccess.Repositories.Abstracts;
 using DataAccess.UnitOfWork.Abstract;
 using Entities.Concrete;
@@ -19,15 +20,20 @@ namespace Business.Services.Concretes
 
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
-        public ProductService(IMapper mapper, IUnitOfWork unitOfWork)
+        private readonly IFileService _fileService;
+
+        public ProductService(IMapper mapper, IUnitOfWork unitOfWork, IFileService fileService)
         {
             _mapper = mapper;
             _unitOfWork = unitOfWork;
+            _fileService = fileService;
         }
 
         public async Task<IResult> AddProduct(CreateProductDTO createProductDTO)
         {
+            string uploadedFilePath = await _fileService.UploadAsync(createProductDTO.ImageUrl, "products");
             var product = _mapper.Map<Product>(createProductDTO);
+            product.ImageUrl = uploadedFilePath;
             var existsProduct = await _unitOfWork.ProductRepository.Get(p => p.Name == createProductDTO.Name);
             if (existsProduct != null)
             {
@@ -52,7 +58,9 @@ namespace Business.Services.Concretes
                 throw new NotFoundException(ExceptionMessage.ProductNotFound);
             }
 
+            _fileService.Delete(existsProduct.ImageUrl);
             _unitOfWork.ProductRepository.Delete(existsProduct);
+
             var result = await _unitOfWork.SaveAsync();
             if(result == 0)
             {
